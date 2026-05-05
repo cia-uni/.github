@@ -1,7 +1,7 @@
 # 🧠 CIA - Central de Inteligência Avançada
 
 <div align="center">
-  <img src="link-para-sua-logo-aqui.png" alt="Logo CIA - Central de Inteligência Avançada" width="300">
+  <img src="logo.png" alt="Logo CIA - Central de Inteligência Avançada" width="300">
 </div>
 
 ---
